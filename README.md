@@ -1,0 +1,2 @@
+# FriendBot
+Discord bot.
